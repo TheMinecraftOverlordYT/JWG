@@ -1,0 +1,45 @@
+#English US Language File for Jen's Wacky Guesses
+
+#CreativeTab
+itemGroup.wacky_tab=Wacky Tab
+
+#Items
+item.item_banana.name=Banana
+item.item_bananamobile.name=Bananamobile
+item.item_dorito.name=Dorito
+item.item_rectangular_chocolate.name=Bar of Chocolate
+item.item_spherical_chocolate.name=Chocolate Truffle
+item.item_egg.name=Sunny Side Up Egg
+
+#Blocks
+
+#Entities
+entity.wackyguesses.banana_boss.name=Boss Banana
+entity.wackyguesses.banana_minion.name=Banana Minion
+entity.wackyguesses.bananamobile.name=Bananamobile
+entity.wackyguesses.banana_throwable.name=Banana
+entity.wackyguesses.octobot.name=Octobot
+entity.wackyguesses.angelic_spider.name=Angelic Spider
+entity.wackyguesses.dorito.name=Mr Señor Dorito
+entity.wackyguesses.dorito_throwable.name=Dorito
+entity.wackyguesses.pat_head.name=Pat's Head
+entity.wackyguesses.choco_box.name=Box of Chocolates
+entity.wackyguesses.rectangular_choco.name=Rectangular Chocolate Minion
+entity.wackyguesses.spherical_choco.name=Spherical Chocolate Minion
+entity.wackyguesses.egg.name=Sunny Side Up Egg
+entity.wackyguesses.iron_papa.name=Iron Papa
+entity.wackyguesses.float_bee_gunner.name=Float Bee Gunner
+entity.wackyguesses.bullet.name=Minigun Bullet
+entity.wackyguesses.bee.name=Bee
+
+#Death Messages
+death.attack.octobot=%1$s was vaporized by an Octobot
+death.attack.chocolate=%1$s choked on some delicious chocolate
+death.attack.banana=%1$s slipped on a banana
+death.attack.dorito=%1$s found out doritos are sharper than they appear
+death.attack.bullet=%1$s was shredded by a Float Bee Gunner
+
+#Subtitles
+entity.octobot.fire=Octobot fires laser
+entity.float_bee_gunner.fire=Minigun fires
+entity.float_bee_gunner.ambient=Float Bee Gunner buzzes

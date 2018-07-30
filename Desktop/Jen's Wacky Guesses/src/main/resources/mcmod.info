@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wackyguesses",
+  "name": "Jen's Wacky Guesses",
+  "description": "This mod adds in a bunch of mobs that Jen guessed incorrectly for the Challenge Games!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheMinecraftOverlord"],
+  "credits": "Jen for the ideas, Pat for supporting me :)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
